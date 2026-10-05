@@ -2,7 +2,7 @@
 
 Prices a Polymarket "Bitcoin up or down" market with Black-Scholes and compares the result with the market's live order book.
 
-> Written in July 2025 as an experiment. Not maintained.
+> This project was written in July 2025 as an experiment and published in October 2026 as an archive. It is not maintained and the pinned libraries are out of date.
 
 ## How it works
 
